@@ -1,4 +1,5 @@
-## Hi there 👋 meu nome é Julia Martins mas, pode me chamar de juh ou jujuh. Estou fazendo a aula do Alura que é muito chata kkkkk. Então foi isso tchal até a proxima, eu acho rsrsrs
+## Hi there 👋 meu nome é Julia Martins mas, pode me chamar de juh ou jujuh. 
+Estou fazendo a aula do Alura, bom acho que é isso tchau.
 
 <!--
 **juuh97/juuh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
