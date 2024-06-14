@@ -1,4 +1,5 @@
-## Hi there 👋 meu nome é Julia Martins mas, pode me chamar de juh ou jujuh. 
+## Hi there 👋 
+Meu nome é Julia Martins mas, pode me chamar de juh ou jujuh. 
 Estou fazendo a aula do Alura, bom acho que é isso tchau.
 
 <!--
